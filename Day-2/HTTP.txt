@@ -1,0 +1,11 @@
+
+Client -> le HTTP Request Pathaucha Server lai
+Server -> le HTTP Response Dincha Client lai
+
+
+For Hosting -> python -m http.server 55555
+
+python -m http.server port_number
+
+
+
